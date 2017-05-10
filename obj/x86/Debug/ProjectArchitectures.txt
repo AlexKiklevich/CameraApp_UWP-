@@ -1,0 +1,1 @@
+C:\Users\alexa\documents\visual studio 2017\Projects\CameraApp_UWP\CameraApp_UWP\CameraApp_UWP.csproj;x86
